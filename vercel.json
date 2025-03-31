@@ -1,0 +1,5 @@
+{
+    "version": 2,
+    "buildCommand": "pip3 install -r requirements.txt && python3 -m mkdocs build -d public",
+    "outputDirectory": "public"
+  }
