@@ -38,10 +38,12 @@ theme:
 
 
 nav:
-  - 首页: index.md
+  - 首页: "index.md"
   - 平台:
-      - BBC Learning English: 平台/BBC Learning English.md
+      - BBC Learning English: "平台/BBC Learning English.md"
   - 书籍:
-      - Illustrated Maths Dictionary: 书籍/illustrated maths dictionary.md
+      - Illustrated Maths Dictionary: "书籍/illustrated maths dictionary.md"
   - 播客:
-      - Luke's ENGLISH Podcast: 播客/Luke's ENGLISH Podcast.md
+      - Luke's ENGLISH Podcast: "播客/Luke's ENGLISH Podcast.md"
+  - 笔记:
+      - 英文语法: "笔记/英文语法.md"
