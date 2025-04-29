@@ -5,18 +5,10 @@
 - 类型：播客
 - 难度：🌟🌟
 
-Luke's ENGLISH Podcast 是一个专为英语学习者设计的播客节目，由 Luke Thompson 主持。该节目每期都围绕不同的英语学习话题展开，内容涵盖语言技巧、日常对话、文化背景等多方面内容。通过轻松幽默的方式，Luke 帮助听众提高英语听力、口语和文化理解能力。
+Luke's ENGLISH Podcast 是一个专为英语学习者设计的播客节目，由 Luke Thompson 主持。该节目每期都围绕不同的英语学习话题展开，内容涵盖语言技巧、日常对话、文化背景等多方面内容。Luke 的每期节目都十分有趣，无论是其选题，又或者是 Luke 本人的幽默细胞，都为博客增添了不少乐趣。个人认为该节目更适合那些想要让自己的口语更生动丰富的学习者，整个节目的难度并不高，Luke 的语速不算太快，我认为高中水平就可以听懂大概的内容。
 
-该播客的优势在于其自然、地道的英语语境和幽默风趣的风格，使得学习变得更加轻松和有趣。无论是初学者还是已经有一定英语基础的学习者，都能从中获得提高口语和听力的帮助。
-
-- 以真实对话为基础，通过听英语母语者的自然表达提高听力能力。
-- 适合学习日常对话和口语表达，尤其对提高听力和口语流利度有很大的帮助。
-- 通过生动幽默的内容，能够让学习者在愉快的氛围中学习。
-
-- 尽管播客内容丰富且有趣，但由于节目通常以较自然的速度进行，初学者可能会觉得有些难度。因此，建议反复收听和跟读，逐渐提高听力理解能力。
-- 由于播客内容较为自由且话题广泛，学习者可以选择感兴趣的主题来收听，既能提高英语水平，又能增加对英语文化的了解。
 
 ## 课程资源
 
-- 课程网站：[Luke's ENGLISH Podcast - 官方网站](https://teacherluke.co.uk/)
-- 播客链接：[Luke's ENGLISH Podcast - Apple Podcasts](https://podcasts.apple.com/us/podcast/lukes-english-podcast/id286214163)
+- 课程网站：[Luke's ENGLISH Podcast](https://teacherluke.co.uk/)
+- 播客链接：[Apple Podcasts](https://podcasts.apple.com/hk/podcast/lukes-english-podcast-learn-british-english-with-luke/id312059190)
