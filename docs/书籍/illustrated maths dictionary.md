@@ -16,4 +16,4 @@
 
 ## 课程资源
 
-- 课程网站：[Illustrated Maths Dictionary - z-Library](https://z-lib.id/book/illustrated-maths-dictionary)
+- 课程网站：[Illustrated Maths Dictionary - z-Library](https://z-lib.fm/book/16970595/81e535/illustrated-maths-dictionary.html)
